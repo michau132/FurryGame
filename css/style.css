@@ -13,8 +13,8 @@ section#score {
 }
 
 #board {
-  width: 560px;
-  height: 560px;
+  width: 540px;
+  height: 540px;
   margin: 1em auto;
     background-color: #FEFEFE;
 }
@@ -22,8 +22,8 @@ section#score {
 #board  > div {    
   border: 1px solid #FBBA42;
   float: left;
-  width: 56px;
-  height: 56px;
+  width: 54px;
+  height: 54px;
 }
 
 
